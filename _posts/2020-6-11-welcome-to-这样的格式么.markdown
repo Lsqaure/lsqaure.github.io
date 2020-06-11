@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "你好..to Jekyll!"
 date:   2015-11-14 16:52:07
 categories: jekyll update
 tags: jekyll update
